@@ -1,0 +1,17 @@
+A:\PROJETO\back\Data\bin\Debug\net7.0\Data.deps.json
+A:\PROJETO\back\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+A:\PROJETO\back\Data\bin\Debug\net7.0\Data.dll
+A:\PROJETO\back\Data\bin\Debug\net7.0\Data.pdb
+A:\PROJETO\back\Data\bin\Debug\net7.0\Domain.dll
+A:\PROJETO\back\Data\bin\Debug\net7.0\Domain.pdb
+A:\PROJETO\back\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+A:\PROJETO\back\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+A:\PROJETO\back\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+A:\PROJETO\back\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+A:\PROJETO\back\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+A:\PROJETO\back\Data\obj\Debug\net7.0\Data.csproj.CopyComplete
+A:\PROJETO\back\Data\obj\Debug\net7.0\Data.dll
+A:\PROJETO\back\Data\obj\Debug\net7.0\refint\Data.dll
+A:\PROJETO\back\Data\obj\Debug\net7.0\Data.pdb
+A:\PROJETO\back\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+A:\PROJETO\back\Data\obj\Debug\net7.0\ref\Data.dll
