@@ -28,7 +28,7 @@ builder.Services.AddCors(options =>
             });
     });
 
-builder.Services.AddDbContext<DataContext>(opts => opts.UseSqlServer("Server=maosolidaria-db-servidor.database.windows.net;Database=maosolidaria-db ;User Id=EduLopes171;Password=@LuxannaftJinx"));
+builder.Services.AddDbContext<DataContext>(opts => opts.UseSqlServer("string de do banco"));
 builder.Services.AddAutoMapper(typeof(AutoMapperConfigDTOs), typeof(AutoMapperConfigViewModels));
 
 
